@@ -7,7 +7,7 @@ Cursos em andamento
 - Desenvolvimento Web Completo - 20 cursos + 20 projetos (pela Udemy)
   
 Projetos atuais  em desenvolvimento
-- Site da Associação Cristã de Moradores e Amigos da Praia do Meio (VOLUNTÁRIA)
+- Site da Associação Cristã de Moradores e Amigos da Praia do Meio (Voluntária)
 
 
 
