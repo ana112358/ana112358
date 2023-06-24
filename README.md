@@ -2,7 +2,11 @@
 - 👀 Sou fascinada pela tecnologia.
 - 🌱 Atualmente estou fazendo Bacharelado em Tecnologia da informação no IMD / UFRN
   
-#Projetos atuais  em desenvolvijmento
+Cursos em andamento
+- Python 3 completo: PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação.(pela Udemy)
+- Desenvolvimento Web Completo - 20 cursos + 20 projetos (pela Udemy)
+  
+Projetos atuais  em desenvolvimento
 - Site da Associação Cristã de Moradores e Amigos da Praia do Meio (VOLUNTÁRIA)
 
 
