@@ -1,6 +1,6 @@
-- 👋 Olá, meu nome é Ana Paula Oliveira de lima.
-- 👀 Sou fascinada pela tecnologia.
-- 🌱 Atualmente estou fazendo Bacharelado em Tecnologia da informação no IMD / UFRN
+<h1> Olá, meu nome é Ana Paula Oliveira de lima.</h1>
+<h2> Sou fascinada pela tecnologia.</h2>
+<h2> Atualmente estou fazendo Bacharelado em Tecnologia da informação no IMD / UFRN</h2>
   
 Cursos em andamento
 - Python 3 completo: PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação.(pela Udemy)
