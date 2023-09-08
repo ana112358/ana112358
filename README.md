@@ -5,6 +5,7 @@
 Cursos em andamento
 - Python 3 completo: PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação.(pela Udemy)
 - Desenvolvimento Web Completo - 20 cursos + 20 projetos (pela Udemy)
+- Curso Completo de Linguagem C e C++ - Iniciante Ao Avançado - Curso Completo que irá te ensinar do ZERO a Estruturas de Dados e Criação de Jogos + Curso de Gestão Ágil com SCRUM
   
 Projetos atuais  em desenvolvimento
 - Site da Associação Cristã de Moradores e Amigos da Praia do Meio (Voluntária)
