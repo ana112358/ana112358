@@ -9,6 +9,8 @@ Cursos em andamento
   
 Projetos atuais  em desenvolvimento
 - Site da Associação Cristã de Moradores e Amigos da Praia do Meio (Voluntária)
+- Site Portal Turismo (em desenvolvimento)
+- Sistema de gerenciamento de banco de dados básico em C
 <img alt="Ana top linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana112358&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px">
 
 
