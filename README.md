@@ -1,5 +1,4 @@
 <h1> Olá, meu nome é Ana Paula Oliveira de lima.</h1>
-<h2> Sou fascinada pela tecnologia.</h2>
 <h2> Atualmente estou fazendo Bacharelado em Tecnologia da informação no IMD / UFRN</h2>
   
 Cursos em andamento
