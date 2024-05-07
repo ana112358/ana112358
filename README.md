@@ -35,8 +35,8 @@ Projetos atuais de autoria própria em desenvolvimento
 <img alt="Ana top linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana112358&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px">
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/ana112358" title="Perfil da Ana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana112358&theme=dracula&show_icons=true" />
 </a>
 
 
