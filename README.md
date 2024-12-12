@@ -33,7 +33,8 @@
 ![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-333333?style=flat&logo=windows-terminal&logoColor=yellow)
 
 Projetos já desenvolvidos
-- Site sobre git e Linux - HTML/CSS/JavaScript/Jekyll -Feito para o PET Ciência da Computação/UFRN
+- Site sobre git e Linux - HTML/CSS/JavaScript/Jekyll - Feito para o PET Ciência da Computação/UFRN
+- Site para uma loja de cuscuz que encaminha os pedidos para o WhatsApp - HTML/CSS/JavaScript
 - Jogo da Velha com HTML / CSS / JavaScript - Aplicando JavaScript em páginas web
 - Sistema de gerenciamento de banco de dados básico (Manipulando arquivo csv na linguagem C)
 - Site da Associação Cristã de Moradores e Amigos da Praia do Meio (Primeiro projeto de desenvolvimento web/HTM/CSS)
