@@ -2,7 +2,7 @@
 
 - 🤔 Uma pessoa muito curiosa, dedicada e apaixonada por desenvolvimento .
 - 🎓 Fazendo **Bacharelado em Tecnologia da Informação** no **Instituto Metrópole digital - IMD / UFRN**
-- 💼 Sou bolsista do Programa de Ensino e Tutoria de Ciência da Computação na **UFRN / DIMAP**
+- 💼 Sou bolsista do Programa de Ensino Tutorial de Ciência da Computação na **UFRN / DIMAP**
 - 💼 Sou Monitora da disciplina Fundamentos de Matemática Computacional I no **IMD/UFRN**
 - 🌱 Atualmente estou focando em me desenvolver como **desenvolvedora web**
 - Fui Aluna ao oficialato / Cadete do Exército Brasileiro de 2020 até 2021
