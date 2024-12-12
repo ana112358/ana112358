@@ -15,6 +15,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C)
+
+
+
 
 **DevOps**
 
@@ -24,12 +29,18 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
-Projetos atuais de autoria própria em desenvolvimento
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-333333?style=flat&logo=windows-terminal&logoColor=yellow)
+
+Projetos já desenvolvidos
+- Site sobre git e Linux - HTML/CSS/JavaScript/Jekyll -Feito para o PET Ciência da Computação/UFRN
 - Jogo da Velha com HTML / CSS / JavaScript - Aplicando JavaScript em páginas web
+- Sistema de gerenciamento de banco de dados básico (Manipulando arquivo csv na linguagem C)
+- Site da Associação Cristã de Moradores e Amigos da Praia do Meio (Primeiro projeto de desenvolvimento web/HTM/CSS)
+
+Projetos atuais em desenvolvimento
+- Sistema de Reserva de Restaurante ( SpringBoot, Mysql e HeidSQL)
 - Site Portal Turismo (em desenvolvimento) - Aplicando conceitos de responsividade
-- Sistema de gerenciamento de banco de dados básico em C
-- Site da Associação Cristã de Moradores e Amigos da Praia do Meio (Primeiro projeto de desenvolvimento web)
 
 
   
