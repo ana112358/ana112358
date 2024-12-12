@@ -33,11 +33,25 @@
 ![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-333333?style=flat&logo=windows-terminal&logoColor=yellow)
 
 Projetos já desenvolvidos
-- Site sobre git e Linux - HTML/CSS/JavaScript/Jekyll - Feito para o PET Ciência da Computação/UFRN
-- Site para uma loja de cuscuz que encaminha os pedidos para o WhatsApp - HTML/CSS/JavaScript
-- Jogo da Velha com HTML / CSS / JavaScript - Aplicando JavaScript em páginas web
-- Sistema de gerenciamento de banco de dados básico (Manipulando arquivo csv na linguagem C)
-- Site da Associação Cristã de Moradores e Amigos da Praia do Meio (Primeiro projeto de desenvolvimento web/HTM/CSS)
+1. **[Site sobre Git e Linux](https://petcc-ufrn.github.io/minicurso-linux-git/)**
+   - **Tecnologias**: HTML, CSS, JavaScript, Jekyll.
+   - **Descrição**: Criado para o PET Ciência da Computação/UFRN, este site apresenta conceitos básicos sobre Git e Linux.
+
+2. **[Site da Casa do Cuscuz](https://casadocuscuz.netlify.app/)**
+   - **Tecnologias**: HTML, CSS, JavaScript.
+   - **Descrição**: Site desenvolvido para uma loja fictícia que direciona os pedidos para o WhatsApp.
+
+3. **[Site do Jogo da Velha](https://jogo-da-velha-projeto-html-css-js.netlify.app/)**
+   - **Tecnologias**: HTML, CSS, JavaScript.
+   - **Descrição**: Jogo interativo que aplica manipulação do DOM e eventos em páginas web.
+
+4. **Sistema de Gerenciamento de Banco de Dados Básico**
+   - **Tecnologia**: Linguagem C.
+   - **Descrição**: Sistema acadêmico simples para manipulação de dados utilizando arquivos CSV.
+
+5. **Site da Associação Cristã de Moradores e Amigos da Praia do Meio**
+   - **Tecnologias**: HTML, CSS.
+   - **Descrição**: Primeiro projeto de desenvolvimento web, criado para promover a associação.
 
 Projetos atuais em desenvolvimento
 - Sistema de Reserva de Restaurante ( SpringBoot, Mysql e HeidSQL)
