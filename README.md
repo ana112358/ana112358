@@ -35,28 +35,30 @@
 ![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-333333?style=flat&logo=windows-terminal&logoColor=yellow)
 
 Projetos já desenvolvidos
-1. **[Site sobre Git e Linux](https://petcc-ufrn.github.io/minicurso-linux-git/)**
+1. **[Sistema de Reservas de Mesas de Restaurante](https://github.com/ana112358/mesafacil-system)**
+    - **Tecnologias**: SpringBoot, Dbeaver, postman, HTML, CSS , JavaScript e MySQL.
+    - **Descrição**: Criei em colaboração um sistema de reserva de mesas de restaurante , criamos uma api e consumimos ela com o front-end feito com HTML/css/js
+2. **[Site sobre Git e Linux](https://petcc-ufrn.github.io/minicurso-linux-git/)**
    - **Tecnologias**: HTML, CSS, JavaScript, Jekyll.
    - **Descrição**: Criado para o PET Ciência da Computação/UFRN, este site apresenta conceitos básicos sobre Git e Linux.
 
-2. **[Site da Casa do Cuscuz](https://casadocuscuz.netlify.app/)**
+3. **[Site da Casa do Cuscuz](https://casadocuscuz.netlify.app/)**
    - **Tecnologias**: HTML, CSS, JavaScript.
    - **Descrição**: Site desenvolvido para uma loja fictícia que direciona os pedidos para o WhatsApp.
 
-3. **[Site do Jogo da Velha](https://jogo-da-velha-projeto-html-css-js.netlify.app/)**
+4. **[Site do Jogo da Velha](https://jogo-da-velha-projeto-html-css-js.netlify.app/)**
    - **Tecnologias**: HTML, CSS, JavaScript.
    - **Descrição**: Jogo interativo que aplica manipulação do DOM e eventos em páginas web.
 
-4. **Sistema de Gerenciamento de Banco de Dados Básico**
+5. **Sistema de Gerenciamento de Banco de Dados Básico**
    - **Tecnologia**: Linguagem C.
    - **Descrição**: Sistema acadêmico simples para manipulação de dados utilizando arquivos CSV.
 
-5. **Site da Associação Cristã de Moradores e Amigos da Praia do Meio**
+6. **Site da Associação Cristã de Moradores e Amigos da Praia do Meio**
    - **Tecnologias**: HTML, CSS.
    - **Descrição**: Primeiro projeto de desenvolvimento web, criado para promover a associação.
 
 Projetos atuais em desenvolvimento
-- Sistema de Reserva de Restaurante ( SpringBoot, Mysql e HeidSQL)
 - Site Portal Turismo (em desenvolvimento) - Aplicando conceitos de responsividade
 
 
