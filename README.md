@@ -37,7 +37,7 @@
 Projetos já desenvolvidos
 1. **[Sistema de Reservas de Mesas de Restaurante](https://github.com/ana112358/mesafacil-system)**
     - **Tecnologias**: SpringBoot, Dbeaver, postman, HTML, CSS , JavaScript e MySQL.
-    - **Descrição**: Criei em colaboração um sistema de reserva de mesas de restaurante , criamos uma api e consumimos ela com o front-end feito com HTML/css/js
+    - **Descrição**: Criei em colaboração um sistema de reserva de mesas de restaurante , criamos uma api e consumimos ela com javascript no front-end feito com HTML/css/js .
 2. **[Site sobre Git e Linux](https://petcc-ufrn.github.io/minicurso-linux-git/)**
    - **Tecnologias**: HTML, CSS, JavaScript, Jekyll.
    - **Descrição**: Criado para o PET Ciência da Computação/UFRN, este site apresenta conceitos básicos sobre Git e Linux.
